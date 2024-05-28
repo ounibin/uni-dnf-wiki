@@ -1,0 +1,542 @@
+[
+  {
+    "iEid": 2000050000,
+    "szName": "天帷巨兽：逆翎布甲长袍",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000050000.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 4,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000050008,
+    "szName": "诺斯玛尔：逆翎布甲长袍",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000050008.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000050020,
+    "szName": "心灵祝福长袍",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000050020.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000050029,
+    "szName": "破旧的羊绒长袍",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000050029.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000050032,
+    "szName": "粗布衬衫",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000050032.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000050091,
+    "szName": "天帷巨兽：破曦布甲长袍",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000050091.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000050110,
+    "szName": "新式棉布背心",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000050110.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000050111,
+    "szName": "厚绒羊毛背心",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000050111.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000080106,
+    "szName": "初级战士胸甲",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000080106.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000080108,
+    "szName": "天帷巨兽：苍蟒重甲胸铠",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000080108.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000080111,
+    "szName": "暗黑城：银刃重甲胸铠",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000080111.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000090071,
+    "szName": "破旧的钛钢胸甲",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000090071.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000090074,
+    "szName": "坚固的钢铁胸甲",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000090074.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000090075,
+    "szName": "坚固的钢铁链甲",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000090075.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000090077,
+    "szName": "钛合金胸甲",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000090077.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000090082,
+    "szName": "天帷巨兽：赤龙板甲胸铠",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000090082.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000090084,
+    "szName": "诺斯玛尔：赤龙板甲胸铠",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "102"
+    ],
+    "iTypeSon3Id": [
+      "10201"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000090084.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "布甲上衣"
+  },
+  {
+    "iEid": 2000120102,
+    "szName": "残破的陶瓷绑腿",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "101"
+    ],
+    "iTypeSon3Id": [
+      "10103"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000120102.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "板甲下装"
+  },
+  {
+    "iEid": 2000120104,
+    "szName": "坚硬的莳芽绑腿",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "101"
+    ],
+    "iTypeSon3Id": [
+      "10103"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000120104.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "板甲下装"
+  },
+  {
+    "iEid": 2000120107,
+    "szName": "陶瓷绑腿",
+    "szColor": "稀有",
+    "iLevelLv": 50,
+    "iTypeSon1Id": [
+      "1"
+    ],
+    "iTypeSon2Id": [
+      "101"
+    ],
+    "iTypeSon3Id": [
+      "10103"
+    ],
+    "icon": "https://bb.img.qq.com/act/dnfm/equipment/2000120107.png",
+    "screenShot": "",
+    "itemStatus": "",
+    "itemBase": "",
+    "itemDesc": "",
+    "dtEventTime": "2024-05-17 19:27:06",
+    "iColorId": 2,
+    "antiMagic": {
+      "name": "冒险家抗魔值",
+      "value": 0
+    },
+    "position": "板甲下装"
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "iPosId": 4,
+    "sPos": "武器",
+    "sSonIds": [
+      {
+        "iTypeSonId": 403,
+        "sTypeSon": "鬼剑士",
+        "sSonIds": [
+          {
+            "iTypeSon2Id": 40301,
+            "sTypeSon2": "短剑"
+          },
+          {
+            "iTypeSon2Id": 40302,
+            "sTypeSon2": "钝器"
+          },
+          {
+            "iTypeSon2Id": 40303,
+            "sTypeSon2": "光剑"
+          },
+          {
+            "iTypeSon2Id": 40304,
+            "sTypeSon2": "巨剑"
+          },
+          {
+            "iTypeSon2Id": 40305,
+            "sTypeSon2": "太刀"
+          }
+        ]
+      },
+      {
+        "iTypeSonId": 402,
+        "sTypeSon": "格斗家",
+        "sSonIds": [
+          {
+            "iTypeSon2Id": 40201,
+            "sTypeSon2": "臂铠"
+          },
+          {
+            "iTypeSon2Id": 40202,
+            "sTypeSon2": "东方棍"
+          },
+          {
+            "iTypeSon2Id": 40203,
+            "sTypeSon2": "拳套"
+          },
+          {
+            "iTypeSon2Id": 40204,
+            "sTypeSon2": "手套"
+          },
+          {
+            "iTypeSon2Id": 40205,
+            "sTypeSon2": "爪"
+          }
+        ]
+      },
+      {
+        "iTypeSonId": 409,
+        "sTypeSon": "神枪手",
+        "sSonIds": [
+          {
+            "iTypeSon2Id": 40901,
+            "sTypeSon2": "步枪"
+          },
+          {
+            "iTypeSon2Id": 40902,
+            "sTypeSon2": "手弩"
+          },
+          {
+            "iTypeSon2Id": 40903,
+            "sTypeSon2": "手炮"
+          },
+          {
+            "iTypeSon2Id": 40904,
+            "sTypeSon2": "自动手枪"
+          },
+          {
+            "iTypeSon2Id": 40905,
+            "sTypeSon2": "左轮枪"
+          }
+        ]
+      },
+      {
+        "iTypeSonId": 406,
+        "sTypeSon": "魔法师",
+        "sSonIds": [
+          {
+            "iTypeSon2Id": 40601,
+            "sTypeSon2": "法杖"
+          },
+          {
+            "iTypeSon2Id": 40602,
+            "sTypeSon2": "棍棒"
+          },
+          {
+            "iTypeSon2Id": 40603,
+            "sTypeSon2": "矛"
+          },
+          {
+            "iTypeSon2Id": 40604,
+            "sTypeSon2": "魔杖"
+          },
+          {
+            "iTypeSon2Id": 40605,
+            "sTypeSon2": "扫把"
+          }
+        ]
+      },
+      {
+        "iTypeSonId": 410,
+        "sTypeSon": "圣职者",
+        "sSonIds": [
+          {
+            "iTypeSon2Id": 41001,
+            "sTypeSon2": "镰刀"
+          },
+          {
+            "iTypeSon2Id": 41002,
+            "sTypeSon2": "念珠"
+          },
+          {
+            "iTypeSon2Id": 41003,
+            "sTypeSon2": "光杖"
+          },
+          {
+            "iTypeSon2Id": 41004,
+            "sTypeSon2": "图腾"
+          },
+          {
+            "iTypeSon2Id": 41005,
+            "sTypeSon2": "战斧"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "iPosId": 1,
+    "sPos": "防具",
+    "sSonIds": [
+      {
+        "iTypeSonId": 102,
+        "sTypeSon": "布甲",
+        "sSonIds": [
+          {
+            "iTypeSon2Id": 10201,
+            "sTypeSon2": "上衣"
+          },
+          {
+            "iTypeSon2Id": 10202,
+            "sTypeSon2": "头肩"
+          },
+          {
+            "iTypeSon2Id": 10203,
+            "sTypeSon2": "下装"
+          },
+          {
+            "iTypeSon2Id": 10204,
+            "sTypeSon2": "鞋"
+          },
+          {
+            "iTypeSon2Id": 10205,
+            "sTypeSon2": "腰带"
+          }
+        ]
+      },
+      {
+        "iTypeSonId": 103,
+        "sTypeSon": "皮甲",
+        "sSonIds": [
+          {
+            "iTypeSon2Id": 10301,
+            "sTypeSon2": "上衣"
+          },
+          {
+            "iTypeSon2Id": 10302,
+            "sTypeSon2": "头肩"
+          },
+          {
+            "iTypeSon2Id": 10303,
+            "sTypeSon2": "下装"
+          },
+          {
+            "iTypeSon2Id": 10304,
+            "sTypeSon2": "鞋"
+          },
+          {
+            "iTypeSon2Id": 10305,
+            "sTypeSon2": "腰带"
+          }
+        ]
+      },
+      {
+        "iTypeSonId": 104,
+        "sTypeSon": "轻甲",
+        "sSonIds": [
+          {
+            "iTypeSon2Id": 10401,
+            "sTypeSon2": "上衣"
+          },
+          {
+            "iTypeSon2Id": 10402,
+            "sTypeSon2": "头肩"
+          },
+          {
+            "iTypeSon2Id": 10403,
+            "sTypeSon2": "下装"
+          },
+          {
+            "iTypeSon2Id": 10404,
+            "sTypeSon2": "鞋"
+          },
+          {
+            "iTypeSon2Id": 10405,
+            "sTypeSon2": "腰带"
+          }
+        ]
+      },
+      {
+        "iTypeSonId": 105,
+        "sTypeSon": "重甲",
+        "sSonIds": [
+          {
+            "iTypeSon2Id": 10501,
+            "sTypeSon2": "上衣"
+          },
+          {
+            "iTypeSon2Id": 10502,
+            "sTypeSon2": "头肩"
+          },
+          {
+            "iTypeSon2Id": 10503,
+            "sTypeSon2": "下装"
+          },
+          {
+            "iTypeSon2Id": 10504,
+            "sTypeSon2": "鞋"
+          },
+          {
+            "iTypeSon2Id": 10505,
+            "sTypeSon2": "腰带"
+          }
+        ]
+      },
+      {
+        "iTypeSonId": 101,
+        "sTypeSon": "板甲",
+        "sSonIds": [
+          {
+            "iTypeSon2Id": 10101,
+            "sTypeSon2": "上衣"
+          },
+          {
+            "iTypeSon2Id": 10102,
+            "sTypeSon2": "头肩"
+          },
+          {
+            "iTypeSon2Id": 10103,
+            "sTypeSon2": "下装"
+          },
+          {
+            "iTypeSon2Id": 10104,
+            "sTypeSon2": "鞋"
+          },
+          {
+            "iTypeSon2Id": 10105,
+            "sTypeSon2": "腰带"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "iPosId": 2,
+    "sPos": "首饰",
+    "sSonIds": [
+      {
+        "iTypeSonId": 201,
+        "sTypeSon": "戒指"
+      },
+      {
+        "iTypeSonId": 202,
+        "sTypeSon": "手镯"
+      },
+      {
+        "iTypeSonId": 203,
+        "sTypeSon": "项链"
+      }
+    ]
+  },
+  {
+    "iPosId": 3,
+    "sPos": "特殊装备",
+    "sSonIds": [
+      {
+        "iTypeSonId": 301,
+        "sTypeSon": "辅助装备"
+      },
+      {
+        "iTypeSonId": 302,
+        "sTypeSon": "魔法石"
+      },
+      {
+        "iTypeSonId": 303,
+        "sTypeSon": "耳环"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "iColorId": 0,
+    "sColor": "普通"
+  },
+  {
+    "iColorId": 1,
+    "sColor": "高级"
+  },
+  {
+    "iColorId": 2,
+    "sColor": "稀有"
+  },
+  {
+    "iColorId": 3,
+    "sColor": "神器"
+  },
+  {
+    "iColorId": 4,
+    "sColor": "史诗"
+  }
+]
